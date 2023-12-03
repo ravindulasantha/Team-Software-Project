@@ -4,44 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 88b39059f53204520abab34c3334aa15
-  - enabled: 1
-    path: Assets/Scenes/day1video.unity
-    guid: 70ae49d7fcd0d453789dd84e99fbd395
-  - enabled: 1
-    path: Assets/Scenes/Day1.unity
-    guid: 781f2bec8863044e99880b148f3a1a87
-  - enabled: 1
-    path: Assets/Scenes/day2video.unity
-    guid: 3b622560a03e74365b30868225567ca5
-  - enabled: 1
-    path: Assets/Scenes/Day 2.unity
-    guid: c956dda64c69f4cd69ee09ce324869c2
-  - enabled: 1
-    path: Assets/Scenes/day2video2.unity
-    guid: ab57b77d663554e6ca1271b0a6212893
-  - enabled: 1
-    path: Assets/Scenes/Day 3.unity
-    guid: c558cedf1eb6d46d6bf17e95928cef7a
-  - enabled: 1
-    path: Assets/Scenes/day3video.unity
-    guid: 8bacdb249743642cf91feef3bcdba4e7
-  - enabled: 1
-    path: Assets/Scenes/Day 4.unity
-    guid: 4d9e6ee36a3f74093b5687304b8ece16
-  - enabled: 1
-    path: Assets/Scenes/day4video.unity
-    guid: b2d7fe0580e58422ea2833b7c3b02312
-  - enabled: 1
-    path: Assets/Scenes/Day 5.unity
-    guid: 3c4fc0c7a9bc64f84abb37c4d9995e93
-  - enabled: 1
-    path: Assets/Scenes/day5video.unity
-    guid: 6a8edff8d86f44118bc4767e83694fcc
-  - enabled: 1
-    path: Assets/Scenes/Day 6.unity
-    guid: 1c1ae925ec2d54ae89352a9d64cc0407
+  m_Scenes: []
   m_configObjects: {}
